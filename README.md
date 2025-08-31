@@ -10,7 +10,7 @@ A very simplistic, 2-player version of Tic-Tac-Toe which can be run via a termin
 4) Write `g++ Main.cpp -o tictactoe`
 5) Write `./tictactoe` to run program
 
-## Playing Minesweeper
+## Playing Tic-Tac-Toe
 
 When prompted with `>` write the **action row**, and **action col** with a space between each element.
 
